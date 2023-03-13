@@ -1,0 +1,87 @@
+
+<div class="row">
+    <div class="colmd-12">
+        <b>Author Name:</b> <span> {{quotesDetail.result.author}}</span>
+    </div>
+    <div class="colmd-12">
+        <b>Quote:</b> <span> {{quotesDetail.result.content}}</span>
+    </div>
+</div><br>
+<div class="row">
+    <h4>Auther - Albert Einstein</h4>
+    <div style="background-color: aliceblue; padding: 5px;">
+        <b>Short</b>
+    </div>
+    
+    <div class="row">
+        <table class='table table-striped' aria-labelledby="tableLabel">
+            <thead>
+                <tr>
+                    <th>Author</th>
+                    <th>Content</th>
+                    <th>Date Added</th>
+                    <th>Date Modified</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr *ngFor="let author of shortList">
+                    <td class="col-md-2">{{ author.author }}</td>
+                    <td class="col-md-6">{{ author.content }}</td>
+                    <td class="col-md-2">{{ author.dateAdded }}</td>
+                    <td class="col-md-2">{{ author.dateModified }}</td>
+                </tr>
+            </tbody>
+        </table>
+       
+    </div>
+
+    <div style="background-color: aliceblue; padding: 5px;">
+        <b>Medium</b>
+    </div>
+    
+    <div class="row">
+        <table class='table table-striped' aria-labelledby="tableLabel">
+            <thead>
+                <tr>
+                    <th>Author</th>
+                    <th>Content</th>
+                    <th>Date Added</th>
+                    <th>Date Modified</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr *ngFor="let author of mediumList">
+                    <td class="col-md-2">{{ author.author }}</td>
+                    <td class="col-md-6">{{ author.content }}</td>
+                    <td class="col-md-2">{{ author.dateAdded }}</td>
+                    <td class="col-md-2">{{ author.dateModified }}</td>
+                </tr>
+            </tbody>
+        </table>
+       
+    </div>
+    <div style="background-color: aliceblue; padding: 5px;">
+        <b>Large</b>
+    </div>
+    
+    <div class="row">
+        <table class='table table-striped' aria-labelledby="tableLabel">
+            <thead>
+                <tr>
+                    <th>Author</th>
+                    <th>Content</th>
+                    <th>Date Added</th>
+                    <th>Date Modified</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr *ngFor="let author of largeList">
+                    <td class="col-md-2">{{ author.author }}</td>
+                    <td class="col-md-6">{{ author.content }}</td>
+                    <td class="col-md-2">{{ author.dateAdded }}</td>
+                    <td class="col-md-2">{{ author.dateModified }}</td>
+                </tr>
+            </tbody>
+        </table>
+       
+    </div>

@@ -1,0 +1,17 @@
+D:\Projects\AH\New folder (4)\Cargo\Cargo.Core\bin\Debug\net6.0\Cargo.Core.deps.json
+D:\Projects\AH\New folder (4)\Cargo\Cargo.Core\bin\Debug\net6.0\Cargo.Core.dll
+D:\Projects\AH\New folder (4)\Cargo\Cargo.Core\bin\Debug\net6.0\Cargo.Core.pdb
+D:\Projects\AH\New folder (4)\Cargo\Cargo.Core\obj\Debug\net6.0\Cargo.Core.csproj.AssemblyReference.cache
+D:\Projects\AH\New folder (4)\Cargo\Cargo.Core\obj\Debug\net6.0\Cargo.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\AH\New folder (4)\Cargo\Cargo.Core\obj\Debug\net6.0\Cargo.Core.AssemblyInfoInputs.cache
+D:\Projects\AH\New folder (4)\Cargo\Cargo.Core\obj\Debug\net6.0\Cargo.Core.AssemblyInfo.cs
+D:\Projects\AH\New folder (4)\Cargo\Cargo.Core\obj\Debug\net6.0\Cargo.Core.csproj.CoreCompileInputs.cache
+D:\Projects\AH\New folder (4)\Cargo\Cargo.Core\obj\Debug\net6.0\Cargo.Core.dll
+D:\Projects\AH\New folder (4)\Cargo\Cargo.Core\obj\Debug\net6.0\refint\Cargo.Core.dll
+D:\Projects\AH\New folder (4)\Cargo\Cargo.Core\obj\Debug\net6.0\Cargo.Core.pdb
+D:\Projects\AH\New folder (4)\Cargo\Cargo.Core\obj\Debug\net6.0\ref\Cargo.Core.dll
+D:\Projects\AH\New folder (4)\Cargo\Cargo.Core\bin\Debug\net6.0\Cargo.Models.dll
+D:\Projects\AH\New folder (4)\Cargo\Cargo.Core\bin\Debug\net6.0\Cargo.Models.pdb
+D:\Projects\AH\New folder (4)\Cargo\Cargo.Core\obj\Debug\net6.0\Cargo.Core.csproj.CopyComplete
+D:\Projects\AH\New folder (4)\Cargo\Cargo.Core\bin\Debug\net6.0\Cargo.Core.runtimeconfig.json
+D:\Projects\AH\New folder (4)\Cargo\Cargo.Core\obj\Debug\net6.0\Cargo.Core.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+D:\Projects\AH\New folder (4)\Cargo\Cargo.Models\bin\Debug\net6.0\Cargo.Models.deps.json
+D:\Projects\AH\New folder (4)\Cargo\Cargo.Models\bin\Debug\net6.0\Cargo.Models.dll
+D:\Projects\AH\New folder (4)\Cargo\Cargo.Models\bin\Debug\net6.0\Cargo.Models.pdb
+D:\Projects\AH\New folder (4)\Cargo\Cargo.Models\obj\Debug\net6.0\Cargo.Models.csproj.AssemblyReference.cache
+D:\Projects\AH\New folder (4)\Cargo\Cargo.Models\obj\Debug\net6.0\Cargo.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\AH\New folder (4)\Cargo\Cargo.Models\obj\Debug\net6.0\Cargo.Models.AssemblyInfoInputs.cache
+D:\Projects\AH\New folder (4)\Cargo\Cargo.Models\obj\Debug\net6.0\Cargo.Models.AssemblyInfo.cs
+D:\Projects\AH\New folder (4)\Cargo\Cargo.Models\obj\Debug\net6.0\Cargo.Models.csproj.CoreCompileInputs.cache
+D:\Projects\AH\New folder (4)\Cargo\Cargo.Models\obj\Debug\net6.0\Cargo.Models.dll
+D:\Projects\AH\New folder (4)\Cargo\Cargo.Models\obj\Debug\net6.0\refint\Cargo.Models.dll
+D:\Projects\AH\New folder (4)\Cargo\Cargo.Models\obj\Debug\net6.0\Cargo.Models.pdb
+D:\Projects\AH\New folder (4)\Cargo\Cargo.Models\obj\Debug\net6.0\ref\Cargo.Models.dll

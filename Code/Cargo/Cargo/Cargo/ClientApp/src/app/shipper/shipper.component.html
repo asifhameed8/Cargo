@@ -1,0 +1,41 @@
+<div class="row">
+    <table class='table table-striped' aria-labelledby="tableLabel">
+        <thead>
+            <tr>
+                <th>Shipper Name</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr *ngFor="let shipper of shipperList">
+                <td style="cursor: pointer;" class="col-md-2" (click)="getShipperDetails(shipper.shipperId)">{{
+                    shipper.shipperName }}</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <div style="border: 1px solid #ccc;">
+        <div style="background-color: aliceblue; padding: 5px;     margin: 0 -12px; font-weight: bold;  border: 1px solid #ccc;"> Shipper - Details</div>
+        <table class='table table-striped' aria-labelledby="tableLabel">
+            <thead>
+                <tr>
+                    <th>Shipment Id</th>
+                    <th>Shipper Name</th>
+                    <th>Carrier Name</th>
+                    <th>Shipment Weight</th>
+                    <th>Shipment Rate Description</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr *ngFor="let shipperDetails of shipperDetails">
+                    <td class="col-md-1">{{ shipperDetails.shipmentId }}</td>
+                    <td class="col-md-2">{{shipperDetails.shipperName }}</td>
+                    <td class="col-md-2">{{ shipperDetails.carrierName }}</td>
+                    <td class="col-md-2">{{shipperDetails.shipmentWeight}}</td>
+                    <td class="col-md-2">{{shipperDetails.shipmentRateDescription}}</td>
+                </tr>
+            </tbody>
+        </table>
+        
+    </div>
+
+</div>
